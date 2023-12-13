@@ -1,0 +1,49 @@
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb

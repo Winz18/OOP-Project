@@ -1,0 +1,178 @@
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+D:\Data_DiskC\Học kỳ 4\Lập trình hướng đối tượng\CuoiKi\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2-main\DACK_OOP2-main\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.inventoryForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.paymentForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.ReportForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.xml
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.dll
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.xml
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.inventoryForm.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.paymentForm.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.ReportForm.resources
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\09050\Desktop\Do an cuoi ki\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.inventoryForm.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.paymentForm.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.ReportForm.resources
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Downloads\DACK_OOP2\DACK_OOP2\CK\DACK_OOP\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.inventoryForm.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.paymentForm.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.ReportForm.resources
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Downloads\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\DoAnCK.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\EPPlus.xml
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.CurrentOrderForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.inventoryForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Loginform.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.paymentForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.ReportForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CopyComplete
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\OOP\Nhom8\Nhom8\DoAnCK\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
